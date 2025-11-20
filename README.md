@@ -21,7 +21,7 @@
 #### •	Data Type: Monthly aggregated climate data
 
 # Data Sources
-#### •	Indian Meteorological Department (IMD)
+#### •	National Aeronautics and Space Admistration(NASA)
 
 
 

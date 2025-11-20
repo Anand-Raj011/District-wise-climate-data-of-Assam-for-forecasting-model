@@ -10,7 +10,7 @@
 ## Geographic Coverage
 #### •	Region: Assam, India
 #### •	Administrative Level: District-wise
-#### •	Number of Districts: Update based on your dataset
+#### •	Number of Districts: 31
 #### •	Time Span: January 1981– December 2024
 #### •	Frequency: Monthly data
 

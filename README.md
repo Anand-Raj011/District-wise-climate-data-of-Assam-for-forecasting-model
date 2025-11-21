@@ -1,4 +1,4 @@
-# Assam District Climate Dataset (1981–2024)
+# District-wise Climate Dataset of Assam (1981–2024)
 ## Overview
 #### This repository contains a long-term district-wise climate dataset for Assam, India, covering the period from 1981 to 2024.
 #### The dataset includes 18,000+ monthly records consisting of temperature, humidity, and precipitation measurements.

@@ -22,6 +22,6 @@
 
 ## Data Sources
 #### •	The primay sourcee of this dataset is obtained from NASA prediction of WorldWide Energy 
-#### .  Resources (POWER)
+Resources (POWER)
 
 

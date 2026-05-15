@@ -1,7 +1,7 @@
 # District-wise Climate Dataset of Assam (1981–2024)
 ## Overview
 #### This repository contains a long-term district-wise climate dataset for Assam, India, covering the period from 1981 to 2024.
-#### The dataset includes 18,000+ monthly records consisting of temperature, humidity, and precipitation measurements collected and prepared by Department of Computer Science and Engineering, Assam University, Silchar, Assam, India.
+#### The dataset includes 18,000+ monthly records consisting of temperature, humidity, and precipitation measurements collected.
 #### It is suitable for climate analysis, environmental research, time-series modelling, and other machine-learning applications.
 
 <img width="588" height="461" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/fba58922-21d9-4439-9240-82cda1972fb5" />

@@ -21,7 +21,6 @@
 #### •	Data Type: Monthly aggregated climate data
 
 ## Data Sources
-#### •	The primay sourcee of this dataset is obtained from NASA prediction of WorldWide Energy 
-Resources (POWER)
+#### •	The primay sourcee of this dataset is obtained from NASA Prediction OF WorldWide Energy Resources (POWER)
 
 
